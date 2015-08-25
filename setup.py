@@ -1,6 +1,6 @@
 from distutils.core import setup, Extension
 
-setup (name = 'FreeSWITCH-esl-python',
+setup (name = 'FreeSWITCH-esl-python-py3',
        version = '0.1vdev',
        ext_modules=[Extension('_ESL',sources=['swig/esl_wrap.cpp',
                                               'src/esl.c',
