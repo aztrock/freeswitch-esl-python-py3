@@ -1,7 +1,7 @@
 freeswitch-esl-python
 =====================
 
-NOTE: Basically, I wanted to have a more updated library. Estabado is https://github.com/gurteshwar/freeswitch-esl-python structure, and libraries FreeSWITCH 1.4
+NOTE: Basically, I wanted to have a more updated library. I support it is https://github.com/gurteshwar/freeswitch-esl-python structure, and libraries FreeSWITCH 1.4
 
 Please refer to :http://wiki.freeswitch.org/wiki/Python_ESL
 
