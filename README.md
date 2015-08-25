@@ -9,17 +9,13 @@ INSTALL :
 
 Use the 'Git' support for pip as described here: 
 
-http://www.pip-installer.org/en/latest/requirements.html#git
-1)Add this to your requirements.txt
-git+git://github.com:gurteshwar/freeswitch-esl-python.git 
-
-2)Run pip install -r requrements.txt
+1) pip install git+https://github.com/aztrock/freeswitch-esl-python-py3.git
 
 or
 
-1)git clone http://git@github.com/gurteshwar/freeswitch-esl-python
-2)cd freeswitch-esl-python
-3)python setup.py install
+1) git clone https://github.com/aztrock/freeswitch-esl-python-py3.git
+2) cd freeswitch-esl-python-py3
+3) python setup.py install
 
 USAGE : Read http://wiki.freeswitch.org/wiki/Esl
 
